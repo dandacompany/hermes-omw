@@ -1,0 +1,8 @@
+name: omw
+version: 0.1.0
+description: "oh-my-wiki bridge — cited recall from your curated wiki. Tools: omw_find (ranked search), omw_context (page bodies + citations), omw_ingest (fetch URL into raw/). Requires the omw CLI (pipx install oh-my-wiki)."
+author: Dante Labs
+provides_tools:
+  - omw_find
+  - omw_context
+  - omw_ingest
